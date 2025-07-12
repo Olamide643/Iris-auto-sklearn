@@ -3,6 +3,6 @@ Flask==1.1.4
 requests
 joblib==0.14.1
 jsonify==0.5
-pandas>=1.5.3
-scikit-learn==0.20.4
+pandas
+scikit-learn
 
