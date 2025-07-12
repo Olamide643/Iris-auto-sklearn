@@ -1,8 +1,8 @@
 gunicorn
 Flask==1.1.4
+requests
 joblib==0.14.1
 jsonify==0.5
-numpy==1.16.6
 pandas==0.24.2
 scikit-learn==0.20.4
 
