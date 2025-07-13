@@ -5,4 +5,5 @@ joblib==0.14.1
 jsonify==0.5
 pandas
 scikit-learn
+setuptools
 
